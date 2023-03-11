@@ -30,6 +30,7 @@ body {
 }
 
 .container .content_text h1 {
+    font-size: 1.3rem;
     font-weight: 700;
     color: hsl(218, 44%, 22%);
 }
